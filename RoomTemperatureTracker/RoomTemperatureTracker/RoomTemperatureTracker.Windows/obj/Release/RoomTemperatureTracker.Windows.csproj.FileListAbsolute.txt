@@ -1,0 +1,13 @@
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\RoomTemperatureTracker.Windows.csprojResolveAssemblyReference.cache
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\App.g.i.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\App.g.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\MainPage.g.i.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\MainPage.g.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\XamlTypeInfo.g.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\App.xaml
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\MainPage.xaml
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\App.xbf
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\MainPage.xbf
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\XamlSaveStateFile.xml
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\RoomTemperatureTracker.Windows.B_.RoomTemperatureTracker.RoomTemperatureTracker.RoomTemperatureTracker.TemperatureList.xaml.g.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.Windows\obj\Release\RoomTemperatureTracker.Windows.B_.RoomTemperatureTracker.RoomTemperatureTracker.RoomTemperatureTracker.HumidityList.xaml.g.cs

@@ -1,0 +1,26 @@
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\RoomTemperatureTracker.WinPhone.csprojResolveAssemblyReference.cache
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\App.g.i.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\App.g.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\MainPage.g.i.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\MainPage.g.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\XamlTypeInfo.g.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\App.xaml
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\MainPage.xaml
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\App.xbf
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\MainPage.xbf
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\XamlSaveStateFile.xml
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\RoomTemperatureTracker.WinPhone.B_.RoomTemperatureTracker.RoomTemperatureTracker.RoomTemperatureTracker.TemperatureList.xaml.g.cs
+B:\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\RoomTemperatureTracker.WinPhone.B_.RoomTemperatureTracker.RoomTemperatureTracker.RoomTemperatureTracker.HumidityList.xaml.g.cs
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\RoomTemperatureTracker.WinPhone.csprojResolveAssemblyReference.cache
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\App.g.i.cs
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\App.g.cs
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\MainPage.g.i.cs
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\MainPage.g.cs
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\XamlTypeInfo.g.cs
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\App.xaml
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\MainPage.xaml
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\App.xbf
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\MainPage.xbf
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\XamlSaveStateFile.xml
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\RoomTemperatureTracker.WinPhone.B_.New_folder.RoomTemperatureTracker.RoomTemperatureTracker.RoomTemperatureTracker.TemperatureList.xaml.g.cs
+B:\New folder\RoomTemperatureTracker\RoomTemperatureTracker\RoomTemperatureTracker.WinPhone\obj\Release\RoomTemperatureTracker.WinPhone.B_.New_folder.RoomTemperatureTracker.RoomTemperatureTracker.RoomTemperatureTracker.HumidityList.xaml.g.cs
